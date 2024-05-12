@@ -28,5 +28,5 @@ The contact section contains contact information and links to reach out to me th
 
 ## Live View
 
-You can view the live version of this portfolio [here](#https://hakim-cs.github.io/).
+You can view the live version of this portfolio [here](https://hakim-cs.github.io).
 
