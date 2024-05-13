@@ -1,5 +1,11 @@
 ![Portfolio home page](https://github.com/Hakim-CS/hakim-cs.github.io/blob/main/images/home%20page.png)
 
+![About page](https://github.com/Hakim-CS/hakim-cs.github.io/blob/main/images/about.png)
+
+![Contact page](https://github.com/Hakim-CS/hakim-cs.github.io/blob/main/images/contact.png)
+
+
+
 # Portfolio
 
 This is a My Portfolio website showcasing my projects and providing information about me.
